@@ -1,15 +1,3 @@
-<!-- Glitch logo -->
-<p align="center">
-  <img src="https://media.tenor.com/Pt2HcHUgJPIAAAAd/glitch.gif" width="300" alt="glitch" />
-</p>
-
-<!-- Cyber GIF -->
-<p align="center">
-  <img src="https://media.tenor.com/BqbI0KThIY8AAAAC/programmer.gif" width="420" alt="programmer" />
-</p>
-
----
-
 ## 🧬 Tentang Saya
 const X9X = {
   alias:  "X9X",
