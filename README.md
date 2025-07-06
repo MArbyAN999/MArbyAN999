@@ -1,8 +1,3 @@
-<!-- Typing animation -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=39FF14&center=true&vCenter=true&width=500&lines=💀+X9X+Cyber+Core+Online...;⚔️+Hack+the+World,+Legally!;🔐+Red+Team+Simulation+Loaded;🧠+Think+Deeper.+Break+Smarter." alt="ABOUT MArbyAN999" />
-</h1>
-
 <!-- Glitch logo -->
 <p align="center">
   <img src="https://media.tenor.com/Pt2HcHUgJPIAAAAd/glitch.gif" width="300" alt="glitch" />
