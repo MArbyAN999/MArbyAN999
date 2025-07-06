@@ -24,21 +24,3 @@ const X9X = {
   motto: "Observe. Understand. Modify. Repeat.",
   status: "Always Learning, Never Settling."
 }
-
-<p align="center"> <img src="https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white"/> <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white"/> <img src="https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=white"/> <img src="https://img.shields.io/badge/-Termux-000000?style=flat&logo=android&logoColor=green"/> </p>
-
-📡 Proyek Andalan:
-🕵️ Telegram Intelligence Logger
-
-🧪 Local Exploit Lab
-
-🎯 Phishing Awareness Simulator
-
-🛡️ Custom API Shield + Log Observer
-
-🚫 Disclaimer
-Semua source di profil ini hanya untuk tujuan pembelajaran, riset & edukasi.
-X9X tidak bertanggung jawab atas penyalahgunaan konten.
-Gunakan dengan etika dan tanggung jawab.
-
-<p align="center"> <img src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" width="250" alt="cool terminal" /> </p> <h3 align="center">𓂀 Stay secure. Think X9X. 𓂀</h3> ```
