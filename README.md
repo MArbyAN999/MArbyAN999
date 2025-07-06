@@ -5,7 +5,7 @@
 🎯 Phishing Awareness Simulator
 🔐 Custom API Shield & Log Observer
 
-<p align="center"> <img src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" width="250" alt="terminal hacker"> </p> <h3 align="center">𓂀 Stay secure. Think X9X. 𓂀</h3>
+<p align="center"> <img src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" width="250" alt="terminal hacker"> </p> <h3 align="center">𓂀 Stay secure. Think X9X. 𓂀</h3><p align="center"> <img src="https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white"> <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white"> <img src="https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=white"> <img src="https://img.shields.io/badge/-Termux-000000?style=flat&logo=android&logoColor=green"> </p>
 
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
