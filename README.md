@@ -16,15 +16,6 @@
   <img src="https://media.tenor.com/Pt2HcHUgJPIAAAAd/glitch.gif" width="360" alt="glitch logo">
 </p>
 
-<!-- Hacker coding GIF -->
-<p align="center">
-  <img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="420" alt="hacker coding">
-</p>
-
-<!-- Programmer in dark mode GIF -->
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="programmer night">
-</p>
 
 # 💫 About Me:
 🚀 **Proyek Andalan**  
