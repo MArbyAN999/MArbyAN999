@@ -26,18 +26,6 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="programmer night">
 </p>
 
----
-
-## 🧬 Tentang Saya
-```js
-const X9X = {
-  alias: "X9X CyberLab",
-  skills: ["Python", "Flask", "OSINT", "TelegramBot", "Automation"],
-  focus: "Red Team & Pentest Simulation",
-  motto: "Observe • Understand • Modify • Repeat"
-}
-
-
 # 💫 About Me:
 🚀 Proyek Andalan<br>
 🕵️ Telegram Intelligence Logger
