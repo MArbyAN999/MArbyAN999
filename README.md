@@ -1,5 +1,9 @@
 # 💫 About Me:
-🚀 Proyek Andalan <br>🕵️ Telegram Intelligence Logger<br><br>🧪 Local Exploit Lab<br><br>🎯 Phishing Awareness Simulator<br><br>🔐 Custom API Shield & Log Observer<br><br>
+🚀 Proyek Andalan<br>
+🕵️ Telegram Intelligence Logger
+🧪 Local Exploit Lab
+🎯 Phishing Awareness Simulator
+🔐 Custom API Shield & Log Observer
 
 
 # 💻 Tech Stack:
