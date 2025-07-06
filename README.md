@@ -1,7 +1,9 @@
 <!-- ===================================================== -->
 <!--                  🟢  X9X CYBER PROFILE                -->
 <!-- ===================================================== -->
-
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=00FFF0&center=true&vCenter=true&width=440&lines=🔥+X9X+CYBER+CORE+🔥;👾+Hack+the+World,+Legally!;🛡️+Security+Research+in+Progress;💻+Live+Terminal+Session..." alt="Typing SVG">
+</h1>
 
 <!-- Glitch logo -->
 <p align="center">
@@ -44,9 +46,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=MArbyAN999&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=00FFF0&center=true&vCenter=true&width=440&lines=🔥+X9X+CYBER+CORE+🔥;👾+Hack+the+World,+Legally!;🛡️+Security+Research+in+Progress;💻+Live+Terminal+Session..." alt="Typing SVG">
-</h1>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MArbyAN999&style=for-the-badge&label=PROFILE+VIEWS&color=00fff0" alt="views">
