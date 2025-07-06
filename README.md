@@ -5,6 +5,7 @@
 🎯 Phishing Awareness Simulator
 🔐 Custom API Shield & Log Observer
 
+<p align="center"> <img src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" width="250" alt="terminal hacker"> </p> <h3 align="center">𓂀 Stay secure. Think X9X. 𓂀</h3> ```
 
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
