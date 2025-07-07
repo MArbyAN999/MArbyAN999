@@ -1,8 +1,12 @@
 ## 🧬 Tentang Saya
 X9X = 
+  
   alias:  "X9X"
+  
   motto:  "Observe • Understand • Modify • Repeat"
+  
   skills: "Python", "Flask", "TelegramBot", "Automation", "OSINT", "Termux"
+  
   status: " Currently researching dark-web security & automation bots"
 
 
