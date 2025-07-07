@@ -50,7 +50,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MArbyAN999&style=for-the-badge&label=PROFILE+VIEWS&color=0aff0a" alt="views" />
   <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=MArbyAN999&icon=0&color=6&pretty=true" alt="visit counter" />
   </a>
 </p>
 
