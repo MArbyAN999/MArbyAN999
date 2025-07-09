@@ -1,4 +1,4 @@
-<a href="https://github.com/Arby-Hex"><img src="http://readme-typing-svg.herokuapp.com?color=BF00FF&center=true&vCenter=true&multiline=false&lines=⛔⛔⛔🚨🚨☠️☠️**" alt="UwU">
+<a href="https://github.com/Arby-Hex"><img src="http://readme-typing-svg.herokuapp.com?color=BF00FF&center=true&vCenter=true&multiline=false&lines=⛔⛔🚨☠️" alt="UwU">
   
 
 
