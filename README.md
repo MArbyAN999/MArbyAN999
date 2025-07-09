@@ -1,3 +1,7 @@
+<a href="https://github.com/Arby-Hex"><img src="http://readme-typing-svg.herokuapp.com?color=BF00FF&center=true&vCenter=true&multiline=false&lines=⛔⛔⛔🚨🚨☠️☠️**" alt="UwU">
+  
+
+
 ## Hi 👋, I'm MR X9X
 - 👨‍💻 **alias**:  "X9X"
 - 📝 **motto**:  "Observe • Understand • Modify • Repeat"
